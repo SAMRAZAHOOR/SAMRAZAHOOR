@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SAMRAZAHOOR
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning python and machine learning
+- 💞️ I’m looking to collaborate on different projects
+- 📫 How to reach me [...](https://www.linkedin.com/in/samra-zahoor-56965b251/)
